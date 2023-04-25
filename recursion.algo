@@ -1,4 +1,4 @@
-Functionis_palindrome(x :characters of string):string
+Function_is_palindrome(x :characters of string):string
     if len(word) <= 1:
         return True
     elif x[0] != word[-1]:
